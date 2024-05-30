@@ -1,0 +1,27 @@
+.but{
+    width: 130%;
+    background-color: aqua;
+    font-weight: 600;
+    height: 100%;
+}
+.ac{width: 113%;
+    background-color:red;
+    font-weight: 600;
+    height: 100%;
+}
+.back{width: 113%;
+    background-color:orange;
+    font-weight: 600;
+    height: 100%;
+}
+.equal{
+    width: 130%;
+    background-color:green;
+    font-weight: 600;
+    height: 100%;
+}
+
+.cal{
+    background-color:blanchedalmond;
+    height: 50vh;
+}
